@@ -1,0 +1,16 @@
+---
+galaxy_info:
+#  author: Hector Castro
+  author: seanw7
+  description: A repurposed Ansible role for installing Git on CentOS.
+#  company: Azavea Inc.
+  license: Apache
+  min_ansible_version: 1.2
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  categories:
+  - development
+  - Centos
+dependencies: []
